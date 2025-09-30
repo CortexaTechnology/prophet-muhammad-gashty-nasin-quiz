@@ -1,6 +1,3 @@
-# prophet-muhammad-gashty-nasin-quiz
-پڕۆژەیەکی کویزی ئۆنلاینە بۆ ناساندنی ژیان و ڕەوشتی پێغەمبەری خوا ﷺ بە شێوازێکی مۆدێرن. پرسیارەکان لە کتێبی 'با باشتر بیناسین' وەرگیراون. دروستکراوە بە بەکارهێنانی HTML, CSS, JavaScript.  
-
 گەشتی ناسین: کویزی پێغەمبەری خوا ﷺ
 پڕۆژەیەکی وێب ئەپڵیکەیشنە لە شێوەی کویزێکی کارلێککار (interactive)، کە ئامانجی ناساندنی ژیان، ڕەوشت، و گوفتارەکانی پێغه‌مبه‌ری خۆشەویستمانە ﷺ بە شێوازێکی مۆدێرن و سەرنجڕاکێش.
 ![alt text](assets/images/bookCover.png)
@@ -30,7 +27,7 @@ git clone https://github.com/CortexaTechnology/prophet-muhammad-gashty-nasin-qui
 code
 Bash
 cd prophet-muhammad-gashty-nasin-quiz
-فایلی index.html بکەرەوە لەڕێگەی وێبگەڕی دڵخوازی خۆتەوە.
+```3.  **فایلی `index.html` بکەرەوە** لەڕێگەی وێبگەڕی دڵخوازی خۆتەوە.
 ✍️ پەرەپێدەر
 ئەم پڕۆژەیە لەلایەن هوشیار حسین محمد لە Cortexa Technology پەرەی پێدراوە.
 پەیوەندی: Cortexa LinkBio
